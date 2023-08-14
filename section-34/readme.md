@@ -1,5 +1,5 @@
 296. Introduction to Mongoose
-### correction in 2023.08
+    -  correction in 2023.08
 297. Reading from Your Database with Mongoose
 298. Data Validation with Mongoose
 299. Updating and Deleting Data Using Mongoose
